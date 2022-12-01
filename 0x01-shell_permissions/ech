@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod ug+x
+cat > 6-multiple_permissions
